@@ -15,6 +15,5 @@ const FRASES = [
   "Entre las gentes, a un lado de tus gentes y las mías, te he dicho “ya es tarde”, y tú sabías que decía “te quiero”",
   "En mis labios te sé, te reconozco, y giras y eres y miras incansable y toda tú me suenas dentro del corazón como mi sangre.",
   "Perdóname si creo ofenderte, a veces, cuando piso una flor",
-  "La religión que predico es la fe de insistir",
-  
+  "La religión que predico es la fe de insistir"
 ];
