@@ -10,10 +10,10 @@ const FRASES = [
   "Hay personas que hacen más lindo el día solo con existir. Vos sos una",
   "Estas flores no dicen todo, pero dicen lo importante: te pienso",
   "No necesito una fecha especial para decirte que me alegra que existas",
-  "Un ramito chiquito para un día cualquiera que merece ser lindo"
+  "Un ramito chiquito para un día cualquiera que merece ser lindo",
   "Para seguir, hay que parar y resolver",
   "Entre las gentes, a un lado de tus gentes y las mías, te he dicho “ya es tarde”, y tú sabías que decía “te quiero”",
   "En mis labios te sé, te reconozco, y giras y eres y miras incansable y toda tú me suenas dentro del corazón como mi sangre.",
   "Perdóname si creo ofenderte, a veces, cuando piso una flor",
   "La religión que predico es la fe de insistir"
-];
+     ];
